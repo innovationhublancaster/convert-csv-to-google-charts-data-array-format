@@ -8,3 +8,4 @@ CSV.foreach("alumni.csv") do |row|
     csv << [var]
   end
 end
+ 
